@@ -62,4 +62,7 @@
     tivos parametros.
         Na parte do 'if __name__ == "__main__": main()' eu não sei explicar kkkkk, você ainda não explicou essa parte
     so disse para aceitarmos kkkk, desculpa!
+# Aluno:
+        DANYEL FRANÇA BRUM GRANJA
+
     
